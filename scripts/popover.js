@@ -1,7 +1,7 @@
-
-* @file
-* Bootstrap Popovers.
-*/
+/**
+ * @file
+ * Bootstrap Popovers.
+ */
 
 var Drupal = Drupal || {};
 
