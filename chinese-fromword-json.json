@@ -1,8 +1,8 @@
 
 {
   "Everett": {
-    "title": "Everett Link 확장",
-    "description": "Snohomish 카운티 경전철 운행을 Lynnwood 에서 Everett 까지 확장합니다.",
+    "title": "Расширение Everett Link ",
+    "description": "Расширение услуг наземного метрополитена от Lynnwood до Everett в округе Snohomish.",
     "link": {
       "href": "https://www.soundtransit.org/system-expansion/everett-link-extension",
       "target": "_blank",
@@ -11,8 +11,8 @@
     "align": "left"
   },
   "Mukilteo": {
-    "title": "Edmonds와 Mukilteo 역 주차 및 접근성 개선",
-    "description": "걷거나, 자전거, 스쿠터, 휠체어 등을 타거나, 자동차를 운전하거나, 대중 교통을 이용하는 모든 분들이 쉽게 Sounder 역에 도달할 수 있도록 합니다.",
+    "title": "Улучшения подъезда и парковок на станциях Edmonds и Mukilteo",
+    "description": "Удобный подъезд к станции Sounder, не зависимо от того идете ли вы пешком, или едите на скейте, велосипеде, машине или общественном транспорте.",
     "link": {
       "href": "https://www.soundtransit.org/system-expansion/edmonds-mukilteo-stations-parking-access-improvements",
       "target": "_blank",
@@ -21,8 +21,8 @@
     "align": "left"
   },
   "Edmonds": {
-    "title": "Edmonds와 Mukilteo 역 주차 및 접근성 개선",
-    "description": "걷거나, 자전거, 스쿠터, 휠체어 등을 타거나, 자동차를 운전하거나, 대중 교통을 이용하는 모든 분들이 쉽게 Sounder 역에 도달할 수 있도록 합니다.",
+    "title": "Улучшения подъезда и парковок на станциях Edmonds и Mukilteo",
+    "description": "Удобный подъезд к станции Sounder, не зависимо от того идете ли вы пешком, или едите на скейте, велосипеде, машине или общественном транспорте.",
     "link": {
       "href": "https://www.soundtransit.org/system-expansion/edmonds-mukilteo-stations-parking-access-improvements",
       "target": "_blank",
@@ -31,8 +31,8 @@
     "align": "left"
   },
   "Lynnwood": {
-    "title": "Lynnwood Link 확장",
-    "description": "경전철 운행을 Northgate에서 Snohomish 카운티까지 확장합니다.",
+    "title": "Расширение Lynnwood Link ",
+    "description": "Расширение услуг наземного метрополитена от Northgate до округа Snohomish.",
     "link": {
       "href": "https://www.soundtransit.org/system-expansion/lynnwood-link-extension",
       "target": "_blank",
@@ -41,8 +41,8 @@
     "align": "left"
   },
   "Stride_S2": {
-    "title": "Stride BRT S2 라인",
-    "description": "Lynnwood와 Bellevue 사이의 구간에 I-405 고속도로를 따라 새로운 고속 버스 운행을 추가하여 다른 대중 교통에 쉽게 연결되도록 합니다.",
+    "title": "Stride BRT S2 Линия",
+    "description": "Дополнительная услуга нового скоростного автобуса вдоль I-405 между Lynnwood и Bellevue, с удобными пересадками на другие транспортные услуги.",
     "link": {
       "href": "https://www.soundtransit.org/system-expansion/stride-brt",
       "target": "_blank",
@@ -51,8 +51,8 @@
     "align": "left"
   },
   "Stride_S3": {
-    "title": "Stride BRT S3 라인",
-    "description": "Shoreline과 Bothell 사이의 구간에 SR-522 도로 및 Northeast 145th Street를 따라 새로운 고속 버스 운행을 추가하여 다른 대중 교통에 쉽게 연결되도록 합니다.",
+    "title": "Линия Stride BRT S3",
+    "description":"Дополнительная услуга нового скоростного автобуса вдоль SR-522 и Northeast 145th улицы между Shoreline и Bothell, с удобными пересадками на другие транспортные услуги.",
     "link": {
       "href": "https://www.soundtransit.org/system-expansion/stride-s3-brt",
       "target": "_blank",
@@ -61,8 +61,8 @@
     "align": "left"
   },
   "Stride_S1": {
-    "title": "Stride BRT S1 라인",
-    "description": "Burien과 Bellevue 사이의 구간에 I-405 고속도로 및 SR 518 주도를 따라 새로운 고속 버스 운행을 추가하여 다른 대중 교통에 쉽게 연결되도록 합니다.",
+    "title": "Линия Stride BRT S1",
+    "description": "Дополнительная услуга нового скоростного автобуса вдоль I-405 и SR 518 между Burien и Bellevue, с удобными пересадками на другие транспортные услуги.",
     "link": {
       "href": "https://www.soundtransit.org/system-expansion/stride-brt",
       "target": "_blank",
@@ -71,8 +71,8 @@
     "align": "left"
   },
   "Ballard": {
-    "title": "West Seattle 및 Ballard Link 확장",
-    "description": "Seattle 다운타운에서 West Seattle의 Alaska Junction으로, 그리고 Ballard 로 경전철을 확장합니다.",
+    "title": "Расширения West Seattle и Ballard Link",
+    "description":"Расширение наземного метрополитена от центра Seattle до Alaska Junction в West Seattle и до Ballard.",
     "link": {
       "href": "https://www.soundtransit.org/system-expansion/west-seattle-ballard-link-extensions",
       "target": "_blank",
@@ -81,8 +81,8 @@
     "align": "left"
   },
   "NE_130": {
-    "title": "Northeast 130th Street 충전소",
-    "description": " Northgate과 Shoreline 사이의 구간에서 Lynnwood Link Extension으로 경전철 역을 추가합니다.",
+    "title": "Добавочная станция Northeast 130th Street ",
+    "description": "Добавление станции наземного метрополитена к Lynnwood Link Extension, между Northgate и Shoreline.",
     "link": {
       "href": "https://www.soundtransit.org/system-expansion/ne-130th-st-infill-station",
       "target": "_blank",
@@ -92,7 +92,7 @@
   },
   "Kirkland": {
     "title": "South Kirkland-Issaquah Link",
-    "description": "Eastside에 새로운 경전철 노선을 추가하여 지역의 목적지까지 쉽게 연결될 수 있도록 합니다.",
+    "description": "Дополнительная линия наземного метрополитена в Eastside, с удобными сообщениями с региональными пунктами назначения.",
     "link": {
       "href": "https://www.soundtransit.org/system-expansion/south-kirkland-issaquah-link",
       "target": "_blank",
@@ -102,7 +102,7 @@
   },
   "Issaquah": {
     "title": "South Kirkland-Issaquah Link",
-    "description": "Eastside에 새로운 경전철 노선을 추가하여 지역의 목적지까지 쉽게 연결될 수 있도록 합니다.",
+    "description": "Дополнительная линия наземного метрополитена в Eastside, с удобными сообщениями с региональными пунктами назначения.",
     "link": {
       "href": "https://www.soundtransit.org/system-expansion/south-kirkland-issaquah-link",
       "target": "_blank",
@@ -111,8 +111,8 @@
     "align": "left"
   },
   "Bus_Base": {
-    "title": "북쪽 버스 기지",
-    "description": "새로운 스트라이드(Stride) 고속 버스 차량들을 보관하고 서비스하기 위한 시설을 추가합니다.",
+    "title": "Северная Автобусная База",
+    "description": "Дополнительный объект для хранения и обслуживания парка новых скоростных автобусов Stride.",
     "link": {
       "href": "https://www.soundtransit.org/system-expansion/stride-s3-brt",
       "target": "_blank",
@@ -121,8 +121,8 @@
     "align": "left"
   },
   "East_Link": {
-    "title": "East Link 확장",
-    "description": "Seattle 다운타운에서 Eastside까지 경전철을 확장합니다.",
+    "title": "Расширение East Link",
+    "description": "Расширение наземного метрополитена от центра Seattle до Eastside.",
     "link": {
       "href": "https://www.soundtransit.org/system-expansion/east-link-extension",
       "target": "_blank",
@@ -131,8 +131,8 @@
     "align": "left"
   },
   "Redmond": {
-    "title": "Downtown Redmond Link 확장",
-    "description": "Overlake 지역에서 Redmond 다운타운까지 경전철을 확장합니다.",
+    "title": "Расширение Downtown Redmond Link",
+    "description": "Расширение наземного метрополитена от района Overlake до центра Redmond.",
     "link": {
       "href": "https://www.soundtransit.org/system-expansion/downtown-redmond-link-extension",
       "target": "_blank",
@@ -141,8 +141,8 @@
     "align": "left"
   },
   "OMF_East": {
-    "title": "운영 및 유지 보수 시설 동쪽",
-    "description": "증가하는 Link 경전철 열차들을 보관하고 서비스하기 위한 시설을 추가합니다.", 
+    "title": "Восточный объект по эксплуатации и техническому обслуживанию",
+    "description": "Дополнительный объект для хранения и обслуживания нашего растущего парка наземного метрополитена Link.",
     "link": {
       "href": "https://www.soundtransit.org/system-expansion/operations-maintenance-facility-east",
       "target": "_blank",
@@ -151,8 +151,8 @@
     "align": "left"
   },
   "Sammamish": {
-    "title": "North Sammamish 파크 앤드 라이드",
-    "description": "지역의 교통 연결 지점에 새로운 주차장을 추가합니다.",  
+    "title": "North Sammamish Парк-энд-Райд",
+    "description": "Дополнительная парковочная площадка с региональными транспортными сообщениями.",
     "link": {
       "href": "https://www.soundtransit.org/system-expansion/north-sammamish-park-ride",
       "target": "_blank",
@@ -161,8 +161,8 @@
     "align": "left"
   },
   "West_Seattle": {
-    "title": "West Seattle 및 Ballard Link 확장",
-    "description": "Seattle 다운타운에서 West Seattle의 Alaska Junction으로, 그리고 Ballard 로 경전철을 확장합니다.", 
+    "title": "Расширения West Seattle и Ballard Link ",
+    "description": "Расширение наземного метрополитена от центра Seattle до Alaska Junction в West Seattle и до Ballard.",
     "link": {
       "href": "https://www.soundtransit.org/system-expansion/west-seattle-ballard-link-extensions",
       "target": "_blank",
@@ -171,8 +171,8 @@
     "align": "left"
   },
   "Graham_St": {
-    "title": "South Graham Street 충전소",
-    "description": "Columbia City와 Othello 사이의 기존 1호선에 경전철 역을 추가합니다.",
+    "title": "Добавочная станция South Graham Street ",
+    "description": "Добавление станции наземного метрополитена на существующей 1 Line, между Columbia City и Othello.",
     "link": {
       "href": "https://www.soundtransit.org/system-expansion/s-graham-st-infill-station",
       "target": "_blank",
@@ -181,8 +181,8 @@
     "align": "left"
   },
   "Boeing_Access": {
-    "title": "South Boeing Access Road 충전소",
-    "description": "Rainier Beach와 Tukwila International Boulevard 사이의 기존 1호선에 경전철 역을 추가합니다.",
+    "title": "Добавочная станция South Boeing Access Road",
+    "description": "Добавление станции наземного метрополитена на существующей 1 Line, между Rainier Beach и Tukwila International Boulevard.",
     "link": {
       "href": "https://www.soundtransit.org/system-expansion/s-boeing-access-rd-infill-station",
       "target": "_blank",
@@ -191,8 +191,8 @@
     "align": "left"
   },
   "OMF_South": {
-    "title": "운영 및 유지 보수 시설 남쪽",
-    "description": "증가하는 Link 경전철 열차들을 보관하고 서비스하기 위한 시설을 추가합니다.", 
+    "title": "Южный объект по эксплуатации и техническому обслуживанию",
+    "description": "Дополнительный объект для хранения и обслуживания растущего парка наземного метрополитена Link.",
     "link": {
       "href": "https://www.soundtransit.org/system-expansion/operations-maintenance-facility-south",
       "target": "_blank",
@@ -201,8 +201,8 @@
     "align": "left"
   },
   "Federal_Way": {
-    "title": "Federal Way Link 확장",
-    "description": "Angle Lake에서 Federal Way 다운타운까지 경전철을 확장합니다.",
+    "title": "Расширение Federal Way Link",
+    "description": "Расширение наземного метрополитена от Angle Lake до центра Federal Way.",
     "link": {
       "href": "https://www.soundtransit.org/system-expansion/federal-way-link-extension",
       "target": "_blank",
@@ -211,8 +211,8 @@
     "align": "left"
   },
   "Tacoma_Dome": {
-    "title": "Tacoma Dome Link 확장",
-    "description": "Federal Way에서 Pierce County까지 경전철 확장.",
+    "title": "Расширение Tacoma Dome Link",
+    "description": "Расширение наземного метрополитена от Federal Way до Pierce County.",
     "link": {
       "href": "https://www.soundtransit.org/system-expansion/tacoma-dome-link-extension",
       "target": "_blank",
@@ -221,8 +221,8 @@
     "align": "left"
   },
   "Hilltop": {
-    "title": "Hilltop Tacoma Link Extension",
-    "description": "Tacoma 다운타운에서 Hilltop까지 경전철을 확장하는 T 라인을 두 배 이상 확장합니다.",
+    "title": "Расширение Hilltop Tacoma Link",
+    "description": "Более чем двукратное увеличение T Line, расширение наземного метрополитена от центра Tacoma до Hilltop.",
     "link": {
       "href": "https://www.soundtransit.org/system-expansion/hilltop-tacoma-link-extension",
       "target": "_blank",
@@ -231,8 +231,8 @@
     "align": "left"
   },
   "TCC": {
-    "title": "TCC Tacoma Link 확장",
-    "description": "St. Joseph에서 Tacoma Community College까지 T 라인 확장.",
+    "title": "Расширение TCC Tacoma Link",
+    "description": "Расширение T Line от St. Joseph до Tacoma Community College.",
     "link": {
       "href": "https://www.soundtransit.org/system-expansion/tcc-tacoma-link-extension",
       "target": "_blank",
@@ -241,8 +241,8 @@
     "align": "left"
   },
   "Sounder_South": {
-    "title": "Sounder South 용량 확장",
-    "description": "더 많은 South Sound 승객들에게 서비스를 제공하고 탑승 경험을 개선하기 위해 용량을 증가합니다.",
+    "title": "Увеличение вместимости Sounder South",
+    "description": "Увеличение вместимости для обслуживания большего количества пассажиров Sound в южном направлении и улучшение впечатления от поездок.",
     "link": {
       "href": "https://www.soundtransit.org/system-expansion/sounder-south-capacity-expansion",
       "target": "_blank",
@@ -251,8 +251,8 @@
     "align": "left"
   },
   "Kent": {
-    "title": "Kent 역 주차장 및 접근성 개선",
-    "description": "주차장을 추가하여 걷거나, 자전거, 스쿠터, 휠체어 등을 타거나, 자동차를 운전하거나, 대중 교통을 이용하는 모든 분들이 쉽게 Sounder 역에 도달할 수 있도록 합니다.",
+    "title": "Улучшение парковок и подъезда к станции Kent",
+    "description": "Дополнительные парковки и улучшения подъезда к станциям Sounder не зависимо от того идете ли вы пешком, или едите на скейте, велосипеде, машине или общественном транспорте. ",
     "link": {
       "href": "https://www.soundtransit.org/system-expansion/kent-station-parking-access-improvements",
       "target": "_blank",
@@ -261,8 +261,8 @@
     "align": "left"
   },
   "Auburn": {
-    "title": "Auburn Station 역 주차장 및 접근성 개선",
-    "description": "주차장을 추가하여 걷거나, 자전거, 스쿠터, 휠체어 등을 타거나, 자동차를 운전하거나, 대중 교통을 이용하는 모든 분들이 쉽게 Sounder 역에 도달할 수 있도록 합니다.",
+    "title": "Улучшение парковок и подъезда к Auburn Station",
+    "description": "Дополнительные парковки и улучшения подъезда к станциям Sounder не зависимо от того идете ли вы пешком, или едите на скейте, велосипеде, машине или общественном транспорте.",
     "link": {
       "href": "https://www.soundtransit.org/system-expansion/auburn-station-parking-access-improvements",
       "target": "_blank",
@@ -271,8 +271,8 @@
     "align": "left"
   },
   "Sumner": {
-    "title": "Sumner Station 역 주차장 및 접근성 개선",
-    "description": "주차장을 추가하여 걷거나, 자전거, 스쿠터, 휠체어 등을 타거나, 자동차를 운전하거나, 대중 교통을 이용하는 모든 분들이 쉽게 Sounder 역에 도달할 수 있도록 합니다.",
+    "title": "Улучшение парковок и подъезда к Sumner Station",
+    "description": "Дополнительные парковки и улучшения подъезда к станциям Sounder не зависимо от того идете ли вы пешком, или едите на скейте, велосипеде, машине или общественном транспорте.",
     "link": {
       "href": "https://www.soundtransit.org/system-expansion/sumner-station-parking-access-improvements",
       "target": "_blank",
@@ -281,8 +281,8 @@
     "align": "left"
   },
   "Puyallup": {
-    "title": "Puyallup 역 주차장 및 접근성 개선",
-    "description": "주차장을 추가하여 걷거나, 자전거, 스쿠터, 휠체어 등을 타거나, 자동차를 운전하거나, 대중 교통을 이용하는 모든 분들이 쉽게 Sounder 역에 도달할 수 있도록 합니다.",
+    "title": "Улучшение парковок и подъезда к станции Puyallup",
+    "description": "Дополнительные парковки и улучшения подъезда к станциям Sounder не зависимо от того идете ли вы пешком, или едите на скейте, велосипеде, машине или общественном транспорте.",
     "link": {
       "href": "https://www.soundtransit.org/system-expansion/puyallup-station-parking-access-improvements",
       "target": "_blank",
@@ -291,8 +291,8 @@
     "align": "left"
   },
   "South_Tacoma": {
-    "title": "South Tacoma 역 주차장 및 접근성 개선",
-    "description": "주차장을 추가하여 걷거나, 자전거, 스쿠터, 휠체어 등을 타거나, 자동차를 운전하거나, 대중 교통을 이용하는 모든 분들이 쉽게 Sounder 역에 도달할 수 있도록 합니다.",
+    "title": "Улучшение парковок и подъезда к станции South Tacoma",
+    "description": "Дополнительные парковки и улучшения подъезда к станциям Sounder не зависимо от того идете ли вы пешком, или едите на скейте, велосипеде, машине или общественном транспорте.",
     "link": {
       "href": "https://www.soundtransit.org/system-expansion/south-tacoma-station-parking-access-improvements",
       "target": "_blank",
@@ -301,9 +301,8 @@
     "align": "left"
   },
   "Lakewood": {
-    "title": "Lakewood 역 주차 및 접근성 개선",
-    "description": "주차장을 추가하여 걷거나, 자전거, 스쿠터, 휠체어 등을 타거나, 자동차를 운전하거나, 대중 교통을 이용하는 모든 분들이 쉽게 Sounder 역에 도달할 수 있도록 합니다.",  
-
+    "title": "Улучшение парковок и подъезда к станции Lakewood",
+    "description": "Дополнительные парковки и улучшения подъезда к станциям Sounder не зависимо от того идете ли вы пешком, или едите на скейте, велосипеде, машине или общественном транспорте.",
     "link": {
       "href": "https://www.soundtransit.org/system-expansion/lakewood-station-parking-access-improvements",
       "target": "_blank",
@@ -312,8 +311,8 @@
     "align": "left"
   },
   "Sounder_Base": {
-    "title": "Sounder 유지 보수 기지",
-    "description": "증가하는 Sounder 열차들을 보관하고 서비스하기 위한 시설을 새로 짓습니다.", 
+    "title": "База обслуживания Sounder",
+    "description": "Строительство нового объекта по хранению и обслуживанию растущего парка поездов Sounder.",
     "link": {
       "href": "https://www.soundtransit.org/system-expansion/sounder-maintenance-base",
       "target": "_blank",
@@ -322,8 +321,8 @@
     "align": "left"
   },
   "Dupont": {
-    "title": "DuPont Sounder 확장",
-    "description": "Tillicum 및 Dupont에 두 군데의 새로운 S 라인 역을 추가합니다.",
+    "title": "Расширение DuPont Sounder",
+    "description": "Две новые дополнительные станции S Line в Tillicum и Dupont.",
     "link": {
       "href": "https://www.soundtransit.org/system-expansion/dupont-sounder-extension",
       "target": "_blank",
