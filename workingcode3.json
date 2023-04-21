@@ -1,4 +1,4 @@
-{
+<script type="application/json" data-drupal-selector="drupal-settings-json">{
     "path": { "baseUrl": "/", "scriptPath": null, "pathPrefix": "", "currentPath": "node/75972", "currentPathIsAdmin": false, "isFront": false, "currentLanguage": "en" },
     "pluralDelimiter": "\u0003",
     "suppressDeprecationErrors": true,
@@ -54,86 +54,97 @@
                 "modal_header_text_color": "#2b376e",
                 "modals": {
                     "Everett": {
-                        "title": "Everett Link Extension",
-                        "description": "Extending Snohomish County light rail service from Lynnwood to Everett.",
+                        "title": "Karugtong ng Everett Link",
+                        "description": "Pagpapahaba ng serbisyo ng Snohomish County light rail  mula Lynnwood hanggang Everett.",
                         "link": { "href": "https://www.soundtransit.org/system-expansion/everett-link-extension", "target": "_blank", "text": "View project details" },
                         "align": "left"
                     },
                     "Mukilteo": {
-                        "title": "Edmonds and Mukilteo Stations Parking and Access Improvements",
-                        "description": "Making it easier to get to Sounder stations, whether you walk, roll, bike, drive or take transit.",
+                        "title": "Pagsasa-ayos ng Paradahan at Lagusan sa mga Istasyon ng Edmonds at Mukilteo",
+                        "description": "Pinadadali ang pagpunta sa mga istasyon ng Sounder, maglakad ka man, gumulong, magbisikleta, magmaneho o sumakay ng bus.",
                         "link": { "href": "https://www.soundtransit.org/system-expansion/edmonds-mukilteo-stations-parking-access-improvements", "target": "_blank", "text": "View project details" },
                         "align": "left"
                     },
                     "Edmonds": {
-                        "title": "Edmonds and Mukilteo Stations Parking and Access Improvements",
-                        "description": "Making it easier to get to Sounder stations, whether you walk, roll, bike, drive or take transit.",
+                        "title": "Pagsasa-ayos ng Paradahan at Lagusan sa mga Istasyon ng Edmonds at Mukilteo ",
+                        "description": "Pinadadali ang pagpunta sa mga istasyon ng Sounder, maglakad ka man, gumulong, magbisikleta, magmaneho o sumakay ng bus.",
                         "link": { "href": "https://www.soundtransit.org/system-expansion/edmonds-mukilteo-stations-parking-access-improvements", "target": "_blank", "text": "View project details" },
                         "align": "left"
                     },
                     "Lynnwood": {
-                        "title": "Lynnwood Link Extension",
-                        "description": "Extending light rail from Northgate to Snohomish County.",
+                        "title": "Linya ng Stride BRT S2",
+                        "description": "Pagdaragdag ng bagong serbisyo ng bus rapid transit sa kahabaan ng I-405 sa pagitan ng Lynnwood at Bellevue, na may madaling koneksyon sa marami pang pagbibiyahe.",
                         "link": { "href": "https://www.soundtransit.org/system-expansion/lynnwood-link-extension", "target": "_blank", "text": "View project details" },
                         "align": "left"
                     },
+       
                     "Stride_S2_A": {
-                        "title": "Stride S2 Line",
-                        "description": "Adding new bus rapid transit service along I-405 between Lynnwood and Bellevue, with easy connections to more transit.",
+                        "title": "Linya ng Stride BRT S2",
+                        "description": "Pagdaragdag ng bagong serbisyo ng bus rapid transit sa kahabaan ng I-405 sa pagitan ng Lynnwood at Bellevue, na may madaling koneksyon sa marami pang pagbibiyahe.",
                         "link": { "href": "https://www.soundtransit.org/stride-s2-line", "target": "_blank", "text": "View project details" },
                         "align": "left"
                     },
                     "Stride_S2_B": {
-                        "title": "Stride S2 Line",
-                        "description": "Adding new bus rapid transit service along I-405 between Lynnwood and Bellevue, with easy connections to more transit.",
+                        "title": "Linya ng Stride BRT S2",
+                        "description": "Pagdaragdag ng bagong serbisyo ng bus rapid transit sa kahabaan ng I-405 sa pagitan ng Lynnwood at Bellevue, na may madaling koneksyon sa marami pang pagbibiyahe.",
                         "link": { "href": "https://www.soundtransit.org/stride-s2-line", "target": "_blank", "text": "View project details" },
                         "align": "left"
                     },
                     "Stride_S3_A": {
-                        "title": "Stride S3 Line",
-                        "description": "Adding new bus rapid transit service along SR-522 and Northeast 145th Street between Shoreline and Bothell, with easy connections to more transit.",
+                        "title": "Linya ng Stride BRT S3",
+                        "description": "Pagdaragdag ng bagong serbisyo ng bus rapid transit sa kahabaan ng SR-522 at Northeast 145th Street sa pagitan ng Shoreline at Bothell, na may madaling koneksyon sa marami pang pagbibiyahe.",
                         "link": { "href": "https://www.soundtransit.org/stride-s3-line", "target": "_blank", "text": "View project details" },
                         "align": "left"
                     },
                     "Stride_S3_B": {
-                        "title": "Stride S3 Line",
-                        "description": "Adding new bus rapid transit service along SR-522 and Northeast 145th Street between Shoreline and Bothell, with easy connections to more transit.",
+                        "title": "Linya ng Stride BRT S3",
+                        "description": "Pagdaragdag ng bagong serbisyo ng bus rapid transit sa kahabaan ng SR-522 at Northeast 145th Street sa pagitan ng Shoreline at Bothell, na may madaling koneksyon sa marami pang pagbibiyahe.",
                         "link": { "href": "https://www.soundtransit.org/stride-s3-line", "target": "_blank", "text": "View project details" },
                         "align": "left"
                     },
+                    "Stride_S1": {
+                        "title": "Linya ng Stride BRT S1",
+                        "description": "Pagdaragdag ng bagong serbisyo ng bus rapid transit sa kahabaan ng I-405 and SR 518 sa pagitan ng Burien at Bellevue, na may madaling koneksyon sa marami pang pagbibiyahe.", 
+                        "link": {
+                          "href": "https://www.soundtransit.org/system-expansion/stride-brt",
+                          "target": "_blank",
+                          "text": " Tingnan ang mga detalye ng proyekto"
+                        },
+                        "align": "left"
+                      },
                     "Stride_S1_A": {
-                        "title": "Stride S1 Line",
-                        "description": "Adding new bus rapid transit service along I-405 and SR 518 between Burien and Bellevue, with easy connections to more transit.",
+                        "title": "Linya ng Stride BRT S1",
+                        "description": "Pagdaragdag ng bagong serbisyo ng bus rapid transit sa kahabaan ng I-405 and SR 518 sa pagitan ng Burien at Bellevue, na may madaling koneksyon sa marami pang pagbibiyahe.",
                         "link": { "href": "https://www.soundtransit.org/stride-s1-line", "target": "_blank", "text": "View project details" },
                         "align": "left"
                     },
                     "Stride_S1_B": {
-                        "title": "Stride S1 Line",
-                        "description": "Adding new bus rapid transit service along I-405 and SR 518 between Burien and Bellevue, with easy connections to more transit.",
+                        "title": "Linya ng Stride BRT S1",
+                        "description": "Pagdaragdag ng bagong serbisyo ng bus rapid transit sa kahabaan ng I-405 and SR 518 sa pagitan ng Burien at Bellevue, na may madaling koneksyon sa marami pang pagbibiyahe.",
                         "link": { "href": "https://www.soundtransit.org/stride-s1-line", "target": "_blank", "text": "View project details" },
                         "align": "left"
                     },
                     "Ballard": {
-                        "title": "West Seattle and Ballard Link Extensions",
-                        "description": "Extending light rail from downtown Seattle to Alaska Junction in West Seattle and to Ballard.",
+                        "title": "Mga karugtong ng West Seattle at Ballard Link",
+                        "description": "Pagpapalawig ng light rail mula bayan ng Seattle hanggang Alaska Junction sa West Seattle at hanggang Ballard.",
                         "link": { "href": "https://www.soundtransit.org/system-expansion/west-seattle-ballard-link-extensions", "target": "_blank", "text": "View project details" },
                         "align": "left"
                     },
                     "NE_130": {
                         "title": "Northeast 130th Street Infill Station",
-                        "description": "Adding a light rail station to the Lynnwood Link Extension, between Northgate and Shoreline.",
+                        "description": "Pagdaragdag ng istasyon ng light rail sa Lynnwood Link Extension, pagitan ng Northgate at Shoreline.",
                         "link": { "href": "https://www.soundtransit.org/system-expansion/ne-130th-st-infill-station", "target": "_blank", "text": "View project details" },
                         "align": "left"
                     },
                     "Kirkland": {
                         "title": "South Kirkland-Issaquah Link",
-                        "description": "Adding a new light rail line on the Eastside, with easy connections to regional destinations.",
+                        "description": "Pagdaragdag ng bagong linya ng light rail sa Eastside, na may madaling koneksyon sa mga patutunguhan sa rehiyon.",
                         "link": { "href": "https://www.soundtransit.org/system-expansion/south-kirkland-issaquah-link", "target": "_blank", "text": "View project details" },
                         "align": "left"
                     },
                     "Issaquah": {
                         "title": "South Kirkland-Issaquah Link",
-                        "description": "Adding a new light rail line on the Eastside, with easy connections to regional destinations.",
+                        "description": " Pagdaragdag ng bagong linya ng light rail sa Eastside, may madaling koneksyon sa mga patutunguhan sa rehiyon.", 
                         "link": { "href": "https://www.soundtransit.org/system-expansion/south-kirkland-issaquah-link", "target": "_blank", "text": "View project details" },
                         "align": "left"
                     },
@@ -144,98 +155,99 @@
                         "align": "left"
                     },
                     "East_Link": {
-                        "title": "East Link Extension",
-                        "description": "Extending light rail from downtown Seattle to the Eastside.",
+                          "title": "Base ng Bus sa Hilaga",
+        "description": "Pagdaragdag ng bagong pasilidad upang paglagyan at serbisyuhan ang ating mga bagong bus ng Stride rapid transit.",
                         "link": { "href": "https://www.soundtransit.org/system-expansion/east-link-extension", "target": "_blank", "text": "View project details" },
                         "align": "left"
                     },
                     "Redmond": {
-                        "title": "Downtown Redmond Link Extension",
-                        "description": "Extending light rail from the Overlake area to Redmond\u0027s downtown.",
+                        "title": "Karugtong ng Downtown Redmond Link",
+                        "description": "Pagpapahaba ng light rail mula sa lugar ng Overlake hanggang bayan ng Redmond.",
                         "link": { "href": "https://www.soundtransit.org/system-expansion/downtown-redmond-link-extension", "target": "_blank", "text": "View project details" },
                         "align": "left"
                     },
                     "OMF_East": {
-                        "title": "Operations and Maintenance Facility East",
-                        "description": "Adding a new facility to store and service our growing Link light rail fleet.",
+                        "title": "Pasilidad ng Operasyon at Pangangalaga sa Silangan",
+                        "description": "Pagdaragdag ng bagong pasilidad upang paglagyan at serbisyuhan ang ating dumadaming mga tren ng Link light rail.",
                         "link": { "href": "https://www.soundtransit.org/system-expansion/operations-maintenance-facility-east", "target": "_blank", "text": "View project details" },
                         "align": "left"
                     },
                     "Sammamish": {
                         "title": "North Sammamish Park-and-Ride",
-                        "description": "Adding a new parking facility with regional transit connections.",
+                        "description": "Pagdaragdag ng bagong pasilidad na paradahan na may mga panrehiyong koneksyon sa pagbiyahe.",
                         "link": { "href": "https://www.soundtransit.org/system-expansion/north-sammamish-park-ride", "target": "_blank", "text": "View project details" },
                         "align": "left"
                     },
                     "West_Seattle": {
-                        "title": "West Seattle and Ballard Link Extensions",
-                        "description": "Extending light rail from downtown Seattle to Alaska Junction in West Seattle and to Ballard.",
+                        "title": "Mga Karugtong ng West Seattle at Ballard Link",
+                        "description": "Pagpapahaba ng light rail mula bayan ng Seattle hanggang Alaska Junction sa West Seattle at hanggang Ballard.",
                         "link": { "href": "https://www.soundtransit.org/system-expansion/west-seattle-ballard-link-extensions", "target": "_blank", "text": "View project details" },
                         "align": "left"
                     },
                     "Graham_St": {
-                        "title": "South Graham Street Infill Station",
-                        "description": "Adding a light rail station to the existing 1 Line, between Columbia City and Othello.",
+                        "title": "South Graham Street Infill Station ",
+                        "description": "Pagdaragdag ng isang istasyon ng light rail sa umiiral na 1 Line, pagitan ng Columbia City at Othello.",
                         "link": { "href": "https://www.soundtransit.org/system-expansion/s-graham-st-infill-station", "target": "_blank", "text": "View project details" },
                         "align": "left"
                     },
                     "Boeing_Access": {
                         "title": "South Boeing Access Road Infill Station",
-                        "description": "Adding a light rail station to the existing 1 Line, between Rainier Beach and Tukwila International Boulevard.",
+                        "description": " Pagdaragdag ng isang istasyon ng light rail sa umiiral na 1 Line, pagitan ng Rainier Beach at Tukwila International Boulevard.",
                         "link": { "href": "https://www.soundtransit.org/system-expansion/s-boeing-access-rd-infill-station", "target": "_blank", "text": "View project details" },
                         "align": "left"
                     },
                     "OMF_South": {
-                        "title": "Operations and Maintenance Facility South",
-                        "description": "Adding a new facility to store and service our growing Link light rail fleet.",
+                        "title": " Pasilidad ng Operasyon at Pangangalaga sa Timog ",
+                        "description": " Pagdaragdag ng bagong pasilidad upang paglagyan at serbisyuhan ang ating dumadaming mga tren ng Link light rail.",
                         "link": { "href": "https://www.soundtransit.org/system-expansion/operations-maintenance-facility-south", "target": "_blank", "text": "View project details" },
                         "align": "left"
                     },
                     "Federal_Way": {
-                        "title": "Federal Way Link Extension",
-                        "description": "Extending light rail from Angle Lake to downtown Federal Way.",
+                        "title": "Karugtong ng Federal Way Link",
+                        "description": "Pagpapahaba ng light rail mula Angle Lake hanggang bayan ng Federal Way.",
                         "link": { "href": "https://www.soundtransit.org/system-expansion/federal-way-link-extension", "target": "_blank", "text": "View project details" },
                         "align": "left"
                     },
                     "Tacoma_Dome": {
-                        "title": "Tacoma Dome Link Extension",
-                        "description": "Extending light rail from Federal Way to Pierce County.",
+                        "title": "Karugtong ng Tacoma Dome Link",
+                        "description": "Pagpapahaba ng light rail mula Federal Way hanggang Pierce County.",
                         "link": { "href": "https://www.soundtransit.org/system-expansion/tacoma-dome-link-extension", "target": "_blank", "text": "View project details" },
                         "align": "left"
                     },
                     "Hilltop": {
-                        "title": "Hilltop Tacoma Link Extension",
-                        "description": "More than doubling the T Line, extending light rail from downtown Tacoma to Hilltop.",
+                        "title": "Ekstensyon ng Hilltop Tacoma Link",
+                        "description": "Higit sa pagpapadoble ng T Line, pagpapalawig ng light rail mula bayan ng Tacoma hanggang Hilltop.",
                         "link": { "href": "https://www.soundtransit.org/system-expansion/hilltop-tacoma-link-extension", "target": "_blank", "text": "View project details" },
                         "align": "left"
                     },
                     "TCC": {
-                        "title": "TCC Tacoma Link Extension",
-                        "description": "Extending the T Line from St. Joseph to Tacoma Community College.",
+                        "title": "Ekstensyon ng TCC Tacoma Link",
+                        "description": "Pagpapalawig ng T Line mula St. Joseph hanggang Tacoma Community College.",
                         "link": { "href": "https://www.soundtransit.org/system-expansion/tcc-tacoma-link-extension", "target": "_blank", "text": "View project details" },
                         "align": "left"
                     },
+                  
                     "Sounder_South_A": {
-                        "title": "Sounder South Capacity Expansion",
-                        "description": "Increasing capacity to serve more South Sound riders and improve passenger experience.",
+                        "title": "Pagpapalawak ng Kapasidad ng Sounder South",
+                        "description": "Pagtaas ng kapasidad upang makapaglingkod sa mas maraming tagasakay ng South Sound at pagbutihin ang karanasan ng pasahero.",
                         "link": { "href": "https://www.soundtransit.org/system-expansion/sounder-south-capacity-expansion", "target": "_blank", "text": "View project details" },
                         "align": "left"
                     },
                     "Sounder_South_B": {
-                        "title": "Sounder South Capacity Expansion",
-                        "description": "Increasing capacity to serve more South Sound riders and improve passenger experience.",
+                        "title": "Pagpapalawak ng Kapasidad ng Sounder South",
+                        "description": "Pagtaas ng kapasidad upang makapaglingkod sa mas maraming tagasakay ng South Sound at pagbutihin ang karanasan ng pasahero.",
                         "link": { "href": "https://www.soundtransit.org/system-expansion/sounder-south-capacity-expansion", "target": "_blank", "text": "View project details" },
                         "align": "left"
                     },
                     "Kent": {
-                        "title": "Kent Station Parking and Access Improvements",
-                        "description": "Adding parking and making it easier to get to Sounder stations, whether you walk, roll, bike, drive or take transit.",
+                        "title": " Mga pagpapabuti ng Paradahan at Daanan ng Istasyon ng Kent",
+                        "description": "Magdagdag ng paradahan at pagpapadali ng pagpunta sa mga istasyon ng Sounder, maglakad ka man, gumulong, magbisikleta, magmaneho o sumakay ng bus.",
                         "link": { "href": "https://www.soundtransit.org/system-expansion/kent-station-parking-access-improvements", "target": "_blank", "text": "View project details" },
                         "align": "left"
                     },
                     "Auburn": {
-                        "title": "Auburn Station Parking and Access Improvements",
-                        "description": "Adding parking and making it easier to get to Sounder stations, whether you walk, roll, bike, drive or take transit.",
+                        "title": "Mga pagpapabuti ng Paradahan at Daanan ng Istasyon ng Auburn",
+                        "description": "Magdagdag ng paradahan at pagpapadali ng pagpunta sa mga istasyon ng Sounder, maglakad ka man, gumulong, magbisikleta, magmaneho o sumakay ng bus.",
                         "link": { "href": "https://www.soundtransit.org/system-expansion/auburn-station-parking-access-improvements", "target": "_blank", "text": "View project details" },
                         "align": "left"
                     },
@@ -246,32 +258,32 @@
                         "align": "left"
                     },
                     "Puyallup": {
-                        "title": "Puyallup Station Parking and Access Improvements",
-                        "description": "Adding parking and making it easier to get to Sounder stations, whether you walk, roll, bike, drive or take transit.",
+                        "title":  "Mga pagpapabuti ng Paradahan at Daanan ng Istasyon ng Puyallup",
+                        "description": "Magdagdag ng paradahan at pagpapadali ng pagpunta sa mga istasyon ng Sounder, maglakad ka man, gumulong, magbisikleta, magmaneho o sumakay ng bus.",
                         "link": { "href": "https://www.soundtransit.org/system-expansion/puyallup-station-parking-access-improvements", "target": "_blank", "text": "View project details" },
                         "align": "left"
                     },
                     "South_Tacoma": {
-                        "title": "South Tacoma Station Parking and Access Improvements",
-                        "description": "Adding parking and making it easier to get to Sounder stations, whether you walk, roll, bike, drive or take transit.",
+                        "title": "Mga pagpapabuti ng Paradahan at Daanan ng Istasyon ng South Tacoma",
+                        "description": "Magdagdag ng paradahan at pagpapadali ng pagpunta sa mga istasyon ng Sounder, maglakad ka man, gumulong, magbisikleta, magmaneho o sumakay ng bus.",
                         "link": { "href": "https://www.soundtransit.org/system-expansion/south-tacoma-station-access-improvements", "target": "_blank", "text": "View project details" },
                         "align": "left"
                     },
                     "Lakewood": {
-                        "title": "Lakewood Station Parking and Access Improvements",
-                        "description": "Adding parking and making it easier to get to Sounder stations, whether you walk, roll, bike, drive or take transit.",
+                        "title": "Mga pagpapabuti ng Paradahan at Daanan ng Istasyon ng Lakewood",
+                        "description": "Magdagdag ng paradahan at pagpapadali ng pagpunta sa mga istasyon ng Sounder, maglakad ka man, gumulong, magbisikleta, magmaneho o sumakay ng bus.",
                         "link": { "href": "https://www.soundtransit.org/system-expansion/lakewood-station-parking-access-improvements", "target": "_blank", "text": "View project details" },
                         "align": "left"
                     },
                     "Sounder_Base": {
-                        "title": "Sounder Maintenance Base",
-                        "description": "Building a new facility to store and service our growing Sounder train fleet.",
+                        "title": "Base ng Pangangalaga ng Sounder",
+                        "description": "Magtayo ng bagong pasilidad upang paglagyan at serbisyuhan ang ating dumadaming tren ng Sounder.",
                         "link": { "href": "https://www.soundtransit.org/system-expansion/sounder-maintenance-base", "target": "_blank", "text": "View project details" },
                         "align": "left"
                     },
                     "Dupont": {
-                        "title": "DuPont Sounder Extension",
-                        "description": "Building a new facility to store and service our growing Sounder train fleet.",
+                        "title": "Ekstensyon ng DuPont Sounder",
+                        "description": "Pagdagdag ng dalawang bagong istasyon ng S Line sa Tillicum at Dupont.",
                         "link": { "href": "https://www.soundtransit.org/system-expansion/dupont-sounder-extension", "target": "_blank", "text": "View project details" },
                         "align": "left"
                     }
@@ -309,4 +321,18 @@
         "query_string_items": [{ "name": "qsp", "value": "CODE_RED" }]
     },
     "user": { "uid": 0, "permissionsHash": "a714948533b84c432bf54e79f956510f70972f335d6479b5306e2a18dff5c607" }
-}
+}</script>
+
+
+
+
+"Stride_S2": {
+    "title": "Linya ng Stride BRT S2",
+    "description": "Pagdaragdag ng bagong serbisyo ng bus rapid transit sa kahabaan ng I-405 sa pagitan ng Lynnwood at Bellevue, na may madaling koneksyon sa marami pang pagbibiyahe.",
+    "link": {
+      "href": "https://www.soundtransit.org/system-expansion/stride-brt",
+      "target": "_blank",
+      "text": " Tingnan ang mga detalye ng proyekto"
+    },
+    "align": "left"
+  },

@@ -1,333 +1,333 @@
-
 {
-  "Everett": {
-    "title": "Расширение Everett Link ",
-    "description": "Расширение услуг наземного метрополитена от Lynnwood до Everett в округе Snohomish.",
-    "link": {
-      "href": "https://www.soundtransit.org/system-expansion/everett-link-extension",
-      "target": "_blank",
-      "text": "View project details"
-    },
-    "align": "left"
-  },
-  "Mukilteo": {
-    "title": "Улучшения подъезда и парковок на станциях Edmonds и Mukilteo",
-    "description": "Удобный подъезд к станции Sounder, не зависимо от того идете ли вы пешком, или едите на скейте, велосипеде, машине или общественном транспорте.",
-    "link": {
-      "href": "https://www.soundtransit.org/system-expansion/edmonds-mukilteo-stations-parking-access-improvements",
-      "target": "_blank",
-      "text": "View project details"
-    },
-    "align": "left"
-  },
-  "Edmonds": {
-    "title": "Улучшения подъезда и парковок на станциях Edmonds и Mukilteo",
-    "description": "Удобный подъезд к станции Sounder, не зависимо от того идете ли вы пешком, или едите на скейте, велосипеде, машине или общественном транспорте.",
-    "link": {
-      "href": "https://www.soundtransit.org/system-expansion/edmonds-mukilteo-stations-parking-access-improvements",
-      "target": "_blank",
-      "text": "View project details"
-    },
-    "align": "left"
-  },
-  "Lynnwood": {
-    "title": "Расширение Lynnwood Link ",
-    "description": "Расширение услуг наземного метрополитена от Northgate до округа Snohomish.",
-    "link": {
-      "href": "https://www.soundtransit.org/system-expansion/lynnwood-link-extension",
-      "target": "_blank",
-      "text": "View project details"
-    },
-    "align": "left"
-  },
-  "Stride_S2": {
-    "title": "Stride BRT S2 Линия",
-    "description": "Дополнительная услуга нового скоростного автобуса вдоль I-405 между Lynnwood и Bellevue, с удобными пересадками на другие транспортные услуги.",
-    "link": {
-      "href": "https://www.soundtransit.org/system-expansion/stride-brt",
-      "target": "_blank",
-      "text": "View project details"
-    },
-    "align": "left"
-  },
-  "Stride_S3": {
-    "title": "Линия Stride BRT S3",
-    "description":"Дополнительная услуга нового скоростного автобуса вдоль SR-522 и Northeast 145th улицы между Shoreline и Bothell, с удобными пересадками на другие транспортные услуги.",
-    "link": {
-      "href": "https://www.soundtransit.org/system-expansion/stride-s3-brt",
-      "target": "_blank",
-      "text": "View project details"
-    },
-    "align": "left"
-  },
-  "Stride_S1": {
-    "title": "Линия Stride BRT S1",
-    "description": "Дополнительная услуга нового скоростного автобуса вдоль I-405 и SR 518 между Burien и Bellevue, с удобными пересадками на другие транспортные услуги.",
-    "link": {
-      "href": "https://www.soundtransit.org/system-expansion/stride-brt",
-      "target": "_blank",
-      "text": "View project details"
-    },
-    "align": "left"
-  },
-  "Ballard": {
-    "title": "Расширения West Seattle и Ballard Link",
-    "description":"Расширение наземного метрополитена от центра Seattle до Alaska Junction в West Seattle и до Ballard.",
-    "link": {
-      "href": "https://www.soundtransit.org/system-expansion/west-seattle-ballard-link-extensions",
-      "target": "_blank",
-      "text": "View project details"
-    },
-    "align": "left"
-  },
-  "NE_130": {
-    "title": "Добавочная станция Northeast 130th Street ",
-    "description": "Добавление станции наземного метрополитена к Lynnwood Link Extension, между Northgate и Shoreline.",
-    "link": {
-      "href": "https://www.soundtransit.org/system-expansion/ne-130th-st-infill-station",
-      "target": "_blank",
-      "text": "View project details"
-    },
-    "align": "left"
-  },
-  "Kirkland": {
-    "title": "South Kirkland-Issaquah Link",
-    "description": "Дополнительная линия наземного метрополитена в Eastside, с удобными сообщениями с региональными пунктами назначения.",
-    "link": {
-      "href": "https://www.soundtransit.org/system-expansion/south-kirkland-issaquah-link",
-      "target": "_blank",
-      "text": "View project details"
-    },
-    "align": "left"
-  },
-  "Issaquah": {
-    "title": "South Kirkland-Issaquah Link",
-    "description": "Дополнительная линия наземного метрополитена в Eastside, с удобными сообщениями с региональными пунктами назначения.",
-    "link": {
-      "href": "https://www.soundtransit.org/system-expansion/south-kirkland-issaquah-link",
-      "target": "_blank",
-      "text": "View project details"
-    },
-    "align": "left"
-  },
-  "Bus_Base": {
-    "title": "Северная Автобусная База",
-    "description": "Дополнительный объект для хранения и обслуживания парка новых скоростных автобусов Stride.",
-    "link": {
-      "href": "https://www.soundtransit.org/system-expansion/stride-s3-brt",
-      "target": "_blank",
-      "text": "View project details"
-    },
-    "align": "left"
-  },
-  "East_Link": {
-    "title": "Расширение East Link",
-    "description": "Расширение наземного метрополитена от центра Seattle до Eastside.",
-    "link": {
-      "href": "https://www.soundtransit.org/system-expansion/east-link-extension",
-      "target": "_blank",
-      "text": "View project details"
-    },
-    "align": "left"
-  },
-  "Redmond": {
-    "title": "Расширение Downtown Redmond Link",
-    "description": "Расширение наземного метрополитена от района Overlake до центра Redmond.",
-    "link": {
-      "href": "https://www.soundtransit.org/system-expansion/downtown-redmond-link-extension",
-      "target": "_blank",
-      "text": "View project details"
-    },
-    "align": "left"
-  },
-  "OMF_East": {
-    "title": "Восточный объект по эксплуатации и техническому обслуживанию",
-    "description": "Дополнительный объект для хранения и обслуживания нашего растущего парка наземного метрополитена Link.",
-    "link": {
-      "href": "https://www.soundtransit.org/system-expansion/operations-maintenance-facility-east",
-      "target": "_blank",
-      "text": "View project details"
-    },
-    "align": "left"
-  },
-  "Sammamish": {
-    "title": "North Sammamish Парк-энд-Райд",
-    "description": "Дополнительная парковочная площадка с региональными транспортными сообщениями.",
-    "link": {
-      "href": "https://www.soundtransit.org/system-expansion/north-sammamish-park-ride",
-      "target": "_blank",
-      "text": "View project details"
-    },
-    "align": "left"
-  },
-  "West_Seattle": {
-    "title": "Расширения West Seattle и Ballard Link ",
-    "description": "Расширение наземного метрополитена от центра Seattle до Alaska Junction в West Seattle и до Ballard.",
-    "link": {
-      "href": "https://www.soundtransit.org/system-expansion/west-seattle-ballard-link-extensions",
-      "target": "_blank",
-      "text": "View project details"
-    },
-    "align": "left"
-  },
-  "Graham_St": {
-    "title": "Добавочная станция South Graham Street ",
-    "description": "Добавление станции наземного метрополитена на существующей 1 Line, между Columbia City и Othello.",
-    "link": {
-      "href": "https://www.soundtransit.org/system-expansion/s-graham-st-infill-station",
-      "target": "_blank",
-      "text": "View project details"
-    },
-    "align": "left"
-  },
-  "Boeing_Access": {
-    "title": "Добавочная станция South Boeing Access Road",
-    "description": "Добавление станции наземного метрополитена на существующей 1 Line, между Rainier Beach и Tukwila International Boulevard.",
-    "link": {
-      "href": "https://www.soundtransit.org/system-expansion/s-boeing-access-rd-infill-station",
-      "target": "_blank",
-      "text": "View project details"
-    },
-    "align": "left"
-  },
-  "OMF_South": {
-    "title": "Южный объект по эксплуатации и техническому обслуживанию",
-    "description": "Дополнительный объект для хранения и обслуживания растущего парка наземного метрополитена Link.",
-    "link": {
-      "href": "https://www.soundtransit.org/system-expansion/operations-maintenance-facility-south",
-      "target": "_blank",
-      "text": "View project details"
-    },
-    "align": "left"
-  },
-  "Federal_Way": {
-    "title": "Расширение Federal Way Link",
-    "description": "Расширение наземного метрополитена от Angle Lake до центра Federal Way.",
-    "link": {
-      "href": "https://www.soundtransit.org/system-expansion/federal-way-link-extension",
-      "target": "_blank",
-      "text": "View project details"
-    },
-    "align": "left"
-  },
-  "Tacoma_Dome": {
-    "title": "Расширение Tacoma Dome Link",
-    "description": "Расширение наземного метрополитена от Federal Way до Pierce County.",
-    "link": {
-      "href": "https://www.soundtransit.org/system-expansion/tacoma-dome-link-extension",
-      "target": "_blank",
-      "text": "View project details"
-    },
-    "align": "left"
-  },
-  "Hilltop": {
-    "title": "Расширение Hilltop Tacoma Link",
-    "description": "Более чем двукратное увеличение T Line, расширение наземного метрополитена от центра Tacoma до Hilltop.",
-    "link": {
-      "href": "https://www.soundtransit.org/system-expansion/hilltop-tacoma-link-extension",
-      "target": "_blank",
-      "text": "View project details"
-    },
-    "align": "left"
-  },
-  "TCC": {
-    "title": "Расширение TCC Tacoma Link",
-    "description": "Расширение T Line от St. Joseph до Tacoma Community College.",
-    "link": {
-      "href": "https://www.soundtransit.org/system-expansion/tcc-tacoma-link-extension",
-      "target": "_blank",
-      "text": "View project details"
-    },
-    "align": "left"
-  },
-  "Sounder_South": {
-    "title": "Увеличение вместимости Sounder South",
-    "description": "Увеличение вместимости для обслуживания большего количества пассажиров Sound в южном направлении и улучшение впечатления от поездок.",
-    "link": {
-      "href": "https://www.soundtransit.org/system-expansion/sounder-south-capacity-expansion",
-      "target": "_blank",
-      "text": "View project details"
-    },
-    "align": "left"
-  },
-  "Kent": {
-    "title": "Улучшение парковок и подъезда к станции Kent",
-    "description": "Дополнительные парковки и улучшения подъезда к станциям Sounder не зависимо от того идете ли вы пешком, или едите на скейте, велосипеде, машине или общественном транспорте. ",
-    "link": {
-      "href": "https://www.soundtransit.org/system-expansion/kent-station-parking-access-improvements",
-      "target": "_blank",
-      "text": "View project details"
-    },
-    "align": "left"
-  },
-  "Auburn": {
-    "title": "Улучшение парковок и подъезда к Auburn Station",
-    "description": "Дополнительные парковки и улучшения подъезда к станциям Sounder не зависимо от того идете ли вы пешком, или едите на скейте, велосипеде, машине или общественном транспорте.",
-    "link": {
-      "href": "https://www.soundtransit.org/system-expansion/auburn-station-parking-access-improvements",
-      "target": "_blank",
-      "text": "View project details"
-    },
-    "align": "left"
-  },
-  "Sumner": {
-    "title": "Улучшение парковок и подъезда к Sumner Station",
-    "description": "Дополнительные парковки и улучшения подъезда к станциям Sounder не зависимо от того идете ли вы пешком, или едите на скейте, велосипеде, машине или общественном транспорте.",
-    "link": {
-      "href": "https://www.soundtransit.org/system-expansion/sumner-station-parking-access-improvements",
-      "target": "_blank",
-      "text": "View project details"
-    },
-    "align": "left"
-  },
-  "Puyallup": {
-    "title": "Улучшение парковок и подъезда к станции Puyallup",
-    "description": "Дополнительные парковки и улучшения подъезда к станциям Sounder не зависимо от того идете ли вы пешком, или едите на скейте, велосипеде, машине или общественном транспорте.",
-    "link": {
-      "href": "https://www.soundtransit.org/system-expansion/puyallup-station-parking-access-improvements",
-      "target": "_blank",
-      "text": "View project details"
-    },
-    "align": "left"
-  },
-  "South_Tacoma": {
-    "title": "Улучшение парковок и подъезда к станции South Tacoma",
-    "description": "Дополнительные парковки и улучшения подъезда к станциям Sounder не зависимо от того идете ли вы пешком, или едите на скейте, велосипеде, машине или общественном транспорте.",
-    "link": {
-      "href": "https://www.soundtransit.org/system-expansion/south-tacoma-station-parking-access-improvements",
-      "target": "_blank",
-      "text": "View project details"
-    },
-    "align": "left"
-  },
-  "Lakewood": {
-    "title": "Улучшение парковок и подъезда к станции Lakewood",
-    "description": "Дополнительные парковки и улучшения подъезда к станциям Sounder не зависимо от того идете ли вы пешком, или едите на скейте, велосипеде, машине или общественном транспорте.",
-    "link": {
-      "href": "https://www.soundtransit.org/system-expansion/lakewood-station-parking-access-improvements",
-      "target": "_blank",
-      "text": "View project details"
-    },
-    "align": "left"
-  },
-  "Sounder_Base": {
-    "title": "База обслуживания Sounder",
-    "description": "Строительство нового объекта по хранению и обслуживанию растущего парка поездов Sounder.",
-    "link": {
-      "href": "https://www.soundtransit.org/system-expansion/sounder-maintenance-base",
-      "target": "_blank",
-      "text": "View project details"
-    },
-    "align": "left"
-  },
-  "Dupont": {
-    "title": "Расширение DuPont Sounder",
-    "description": "Две новые дополнительные станции S Line в Tillicum и Dupont.",
-    "link": {
-      "href": "https://www.soundtransit.org/system-expansion/dupont-sounder-extension",
-      "target": "_blank",
-      "text": "View project details"
-    },
-    "align": "left"
-  }
-}
+      "Everett": {
+        "title": "Karugtong ng Everett Link",
+        "description": "Pagpapahaba ng serbisyo ng Snohomish County light rail  mula Lynnwood hanggang Everett.",
+        "link": {
+          "href": "https://www.soundtransit.org/system-expansion/everett-link-extension",
+          "target": "_blank",
+          "text": "Tingnan ang mga detalye ng proyekto"
+        },
+        "align": "left"
+      },
+      "Mukilteo": {
+        "title": "Pagsasa-ayos ng Paradahan at Lagusan sa mga Istasyon ng Edmonds at Mukilteo",
+        "description": "Pinadadali ang pagpunta sa mga istasyon ng Sounder, maglakad ka man, gumulong, magbisikleta, magmaneho o sumakay ng bus.",
+        "link": {
+          "href": "https://www.soundtransit.org/system-expansion/edmonds-mukilteo-stations-parking-access-improvements",
+          "target": "_blank",
+          "text": "Tingnan ang mga detalye ng proyekto "
+        },
+        "align": "left"
+      },
+      "Edmonds": {
+        "title": "Pagsasa-ayos ng Paradahan at Lagusan sa mga Istasyon ng Edmonds at Mukilteo ",
+        "description": "Pinadadali ang pagpunta sa mga istasyon ng Sounder, maglakad ka man, gumulong, magbisikleta, magmaneho o sumakay ng bus.",
+        "link": {
+          "href": "https://www.soundtransit.org/system-expansion/edmonds-mukilteo-stations-parking-access-improvements",
+          "target": "_blank",
+          "text": "Tingnan ang mga detalye ng proyekto "
+        },
+        "align": "left"
+      },
+      "Lynnwood": {
+        "title": "Karugtong ng Lynnwood Link",
+        "description": "Pagpapahaba ng light rail mula Northgate hanggang Snohomish County.",
+        "link": {
+          "href": "https://www.soundtransit.org/system-expansion/lynnwood-link-extension",
+          "target": "_blank",
+          "text": "Tingnan ang mga detalye ng proyekto "
+        },
+        "align": "left"
+      },
+      "Stride_S2": {
+        "title": "Linya ng Stride BRT S2",
+        "description": "Pagdaragdag ng bagong serbisyo ng bus rapid transit sa kahabaan ng I-405 sa pagitan ng Lynnwood at Bellevue, na may madaling koneksyon sa marami pang pagbibiyahe.",
+        "link": {
+          "href": "https://www.soundtransit.org/system-expansion/stride-brt",
+          "target": "_blank",
+          "text": " Tingnan ang mga detalye ng proyekto"
+        },
+        "align": "left"
+      },
+      "Stride_S3": {
+        "title": "Linya ng Stride BRT S3",
+        "description": "Pagdaragdag ng bagong serbisyo ng bus rapid transit sa kahabaan ng SR-522 at Northeast 145th Street sa pagitan ng Shoreline at Bothell, na may madaling koneksyon sa marami pang pagbibiyahe.",
+
+        "link": {
+          "href": "https://www.soundtransit.org/system-expansion/stride-s3-brt",
+          "target": "_blank",
+          "text": " Tingnan ang mga detalye ng proyekto"
+        },
+        "align": "left"
+      },
+      "Stride_S1": {
+        "title": "Linya ng Stride BRT S1",
+        "description": ""Pagdaragdag ng bagong serbisyo ng bus rapid transit sa kahabaan ng I-405 and SR 518 sa pagitan ng Burien at Bellevue, na may madaling koneksyon sa marami pang pagbibiyahe.", 
+        "link": {
+          "href": "https://www.soundtransit.org/system-expansion/stride-brt",
+          "target": "_blank",
+          "text": " Tingnan ang mga detalye ng proyekto"
+        },
+        "align": "left"
+      },
+      "Ballard": {
+        "title": "Mga karugtong ng West Seattle at Ballard Link",
+        "description": "Pagpapalawig ng light rail mula bayan ng Seattle hanggang Alaska Junction sa West Seattle at hanggang Ballard.",
+        "link": {
+          "href": "https://www.soundtransit.org/system-expansion/west-seattle-ballard-link-extensions",
+          "target": "_blank",
+          "text": " Tingnan ang mga detalye ng proyekto "
+        },
+        "align": "left"
+      },
+      "NE_130": {
+        "title": "Northeast 130th Street Infill Station",
+        "description": "Pagdaragdag ng istasyon ng light rail sa Lynnwood Link Extension, pagitan ng Northgate at Shoreline.",
+        "link": {
+          "href": "https://www.soundtransit.org/system-expansion/ne-130th-st-infill-station",
+          "target": "_blank",
+          "text": " Tingnan ang mga detalye ng proyekto "
+        },
+        "align": "left"
+      },
+      "Kirkland": {
+        "title": "South Kirkland-Issaquah Link",
+        "description": "Pagdaragdag ng bagong linya ng light rail sa Eastside, na may madaling koneksyon sa mga patutunguhan sa rehiyon.",
+        "link": {
+          "href": "https://www.soundtransit.org/system-expansion/south-kirkland-issaquah-link",
+          "target": "_blank",
+          "text": " Tingnan ang mga detalye ng proyekto "
+        },
+        "align": "left"
+      },
+      "Issaquah": {
+        "title": "South Kirkland-Issaquah Link",
+        "description": " Pagdaragdag ng bagong linya ng light rail sa Eastside, may madaling koneksyon sa mga patutunguhan sa rehiyon.", 
+        "link": {
+          "href": "https://www.soundtransit.org/system-expansion/south-kirkland-issaquah-link",
+          "target": "_blank",
+          "text": " Tingnan ang mga detalye ng proyekto "
+        },
+        "align": "left"
+      },
+      "Bus_Base": {
+        "title": "Base ng Bus sa Hilaga",
+        "description": "Pagdaragdag ng bagong pasilidad upang paglagyan at serbisyuhan ang ating mga bagong bus ng Stride rapid transit.",
+        "link": {
+          "href": "https://www.soundtransit.org/system-expansion/stride-s3-brt",
+          "target": "_blank",
+          "text": " Tingnan ang mga detalye ng proyekto "
+        },
+        "align": "left"
+      },
+      "East_Link": {
+        "title": "Karugtong ng East Link",
+        "description": "Pagpapahaba ng light rail mula bayan ng Seattle hanggang sa Eastside.",
+        "link": {
+          "href": "https://www.soundtransit.org/system-expansion/east-link-extension",
+          "target": "_blank",
+          "text": " Tingnan ang mga detalye ng proyekto "
+        },
+        "align": "left"
+      },
+      "Redmond": {
+        "title": "Karugtong ng Downtown Redmond Link",
+        "description": "Pagpapahaba ng light rail mula sa lugar ng Overlake hanggang bayan ng Redmond.",
+        "link": {
+          "href": "https://www.soundtransit.org/system-expansion/downtown-redmond-link-extension",
+          "target": "_blank",
+          "text": " Tingnan ang mga detalye ng proyekto "
+        },
+        "align": "left"
+      },
+      "OMF_East": {
+        "title": "Pasilidad ng Operasyon at Pangangalaga sa Silangan",
+        "description": "Pagdaragdag ng bagong pasilidad upang paglagyan at serbisyuhan ang ating dumadaming mga tren ng Link light rail.",
+        "link": {
+          "href": "https://www.soundtransit.org/system-expansion/operations-maintenance-facility-east",
+          "target": "_blank",
+          "text": " Tingnan ang mga detalye ng proyekto "
+        },
+        "align": "left"
+      },
+      "Sammamish": {
+        "title": "North Sammamish Park-and-Ride",
+        "description": "Pagdaragdag ng bagong pasilidad na paradahan na may mga panrehiyong koneksyon sa pagbiyahe.",
+        "link": {
+          "href": "https://www.soundtransit.org/system-expansion/north-sammamish-park-ride",
+          "target": "_blank",
+          "text": " Tingnan ang mga detalye ng proyekto "
+        },
+        "align": "left"
+      },
+      "West_Seattle": {
+        "title": "Mga Karugtong ng West Seattle at Ballard Link",
+        "description": "Pagpapahaba ng light rail mula bayan ng Seattle hanggang Alaska Junction sa West Seattle at hanggang Ballard.",
+        "link": {
+          "href": "https://www.soundtransit.org/system-expansion/west-seattle-ballard-link-extensions",
+          "target": "_blank",
+          "text": " Tingnan ang mga detalye ng proyekto "
+        },
+        "align": "left"
+      },
+      "Graham_St": {
+        "title": "South Graham Street Infill Station ",
+        "description": "Pagdaragdag ng isang istasyon ng light rail sa umiiral na 1 Line, pagitan ng Columbia City at Othello.",
+        "link": {
+          "href": "https://www.soundtransit.org/system-expansion/s-graham-st-infill-station",
+          "target": "_blank",
+          "text": " Tingnan ang mga detalye ng proyekto "
+        },
+        "align": "left"
+      },
+      "Boeing_Access": {
+        "title": "South Boeing Access Road Infill Station",
+        "description": " Pagdaragdag ng isang istasyon ng light rail sa umiiral na 1 Line, pagitan ng Rainier Beach at Tukwila International Boulevard.",
+        "link": {
+          "href": "https://www.soundtransit.org/system-expansion/s-boeing-access-rd-infill-station",
+          "target": "_blank",
+          "text": " Tingnan ang mga detalye ng proyekto "
+        },
+        "align": "left"
+      },
+      "OMF_South": {
+        "title": " Pasilidad ng Operasyon at Pangangalaga sa Timog ",
+        "description": " Pagdaragdag ng bagong pasilidad upang paglagyan at serbisyuhan ang ating dumadaming mga tren ng Link light rail.",
+        "link": {
+          "href": "https://www.soundtransit.org/system-expansion/operations-maintenance-facility-south",
+          "target": "_blank",
+          "text": " Tingnan ang mga detalye ng proyekto"
+        },
+        "align": "left"
+      },
+      "Federal_Way": {
+        "title": "Karugtong ng Federal Way Link",
+        "description": "Pagpapahaba ng light rail mula Angle Lake hanggang bayan ng Federal Way.",
+        "link": {
+          "href": "https://www.soundtransit.org/system-expansion/federal-way-link-extension",
+          "target": "_blank",
+          "text": " Tingnan ang mga detalye ng proyekto "
+        },
+        "align": "left"
+      },
+      "Tacoma_Dome": {
+        "title": "Karugtong ng Tacoma Dome Link",
+        "description": "Pagpapahaba ng light rail mula Federal Way hanggang Pierce County.",
+        "link": {
+          "href": "https://www.soundtransit.org/system-expansion/tacoma-dome-link-extension",
+          "target": "_blank",
+          "text": " Tingnan ang mga detalye ng proyekto "
+        },
+        "align": "left"
+      },
+      "Hilltop": {
+        "title": "Ekstensyon ng Hilltop Tacoma Link",
+        "description": "Higit sa pagpapadoble ng T Line, pagpapalawig ng light rail mula bayan ng Tacoma hanggang Hilltop.",
+        "link": {
+          "href": "https://www.soundtransit.org/system-expansion/hilltop-tacoma-link-extension",
+          "target": "_blank",
+          "text": " Tingnan ang mga detalye ng proyekto "
+        },
+        "align": "left"
+      },
+      "TCC": {
+        "title": "Ekstensyon ng TCC Tacoma Link",
+        "description": "Pagpapalawig ng T Line mula St. Joseph hanggang Tacoma Community College.",
+        "link": {
+          "href": "https://www.soundtransit.org/system-expansion/tcc-tacoma-link-extension",
+          "target": "_blank",
+          "text": " Tingnan ang mga detalye ng proyekto "
+        },
+        "align": "left"
+      },
+      "Sounder_South": {
+        "title": "Pagpapalawak ng Kapasidad ng Sounder South",
+        "description": "Pagtaas ng kapasidad upang makapaglingkod sa mas maraming tagasakay ng South Sound at pagbutihin ang karanasan ng pasahero.",
+        "link": {
+          "href": "https://www.soundtransit.org/system-expansion/sounder-south-capacity-expansion",
+          "target": "_blank",
+          "text": " Tingnan ang mga detalye ng proyekto "
+        },
+        "align": "left"
+      },
+      "Kent": {
+        "title": " Mga pagpapabuti ng Paradahan at Daanan ng Istasyon ng Kent",
+        "description": "Magdagdag ng paradahan at pagpapadali ng pagpunta sa mga istasyon ng Sounder, maglakad ka man, gumulong, magbisikleta, magmaneho o sumakay ng bus.",
+        "link": {
+          "href": "https://www.soundtransit.org/system-expansion/kent-station-parking-access-improvements",
+          "target": "_blank",
+          "text": " Tingnan ang mga detalye ng proyekto "
+        },
+        "align": "left"
+      },
+      "Auburn": {
+        "title": " Mga pagpapabuti ng Paradahan at Daanan ng Istasyon ng Auburn",
+        "description": "Magdagdag ng paradahan at pagpapadali ng pagpunta sa mga istasyon ng Sounder, maglakad ka man, gumulong, magbisikleta, magmaneho o sumakay ng bus.",
+        "link": {
+          "href": "https://www.soundtransit.org/system-expansion/auburn-station-parking-access-improvements",
+          "target": "_blank",
+          "text": " Tingnan ang mga detalye ng proyekto "
+        },
+        "align": "left"
+      },
+      "Sumner": {
+        "title": "Mga pagpapabuti ng Paradahan at Daanan ng Istasyon ng Sumner",
+        "description": "Magdagdag ng paradahan at pagpapadali ng pagpunta sa mga istasyon ng Sounder, maglakad ka man, gumulong, magbisikleta, magmaneho o sumakay ng bus.",
+        "link": {
+          "href": "https://www.soundtransit.org/system-expansion/sumner-station-parking-access-improvements",
+          "target": "_blank",
+          "text": " Tingnan ang mga detalye ng proyekto "
+        },
+        "align": "left"
+      },
+      "Puyallup": {
+        "title":  "Mga pagpapabuti ng Paradahan at Daanan ng Istasyon ng Puyallup",
+        "description": "Magdagdag ng paradahan at pagpapadali ng pagpunta sa mga istasyon ng Sounder, maglakad ka man, gumulong, magbisikleta, magmaneho o sumakay ng bus.",
+        "link": {
+          "href": "https://www.soundtransit.org/system-expansion/puyallup-station-parking-access-improvements",
+          "target": "_blank",
+          "text": " Tingnan ang mga detalye ng proyekto "
+        },
+        "align": "left"
+      },
+      "South_Tacoma": {
+        "title": "Mga pagpapabuti ng Paradahan at Daanan ng Istasyon ng South Tacoma",
+        "description": "Magdagdag ng paradahan at pagpapadali ng pagpunta sa mga istasyon ng Sounder, maglakad ka man, gumulong, magbisikleta, magmaneho o sumakay ng bus."
+        "link": {
+          "href": "https://www.soundtransit.org/system-expansion/south-tacoma-station-parking-access-improvements",
+          "target": "_blank",
+          "text": " Tingnan ang mga detalye ng proyekto "
+        },
+        "align": "left"
+      },
+      "Lakewood": {
+        "title": "Mga pagpapabuti ng Paradahan at Daanan ng Istasyon ng Lakewood",
+        "description": "Magdagdag ng paradahan at pagpapadali ng pagpunta sa mga istasyon ng Sounder, maglakad ka man, gumulong, magbisikleta, magmaneho o sumakay ng bus.”,
+        "link": {
+          "href": "https://www.soundtransit.org/system-expansion/lakewood-station-parking-access-improvements",
+          "target": "_blank",
+          "text": " Tingnan ang mga detalye ng proyekto "
+        },
+        "align": "left"
+      },
+      "Sounder_Base": {
+        "title": "Base ng Pangangalaga ng Sounder",
+        "description": "Magtayo ng bagong pasilidad upang paglagyan at serbisyuhan ang ating dumadaming tren ng Sounder.",
+        "link": {
+          "href": "https://www.soundtransit.org/system-expansion/sounder-maintenance-base",
+          "target": "_blank",
+          "text": " Tingnan ang mga detalye ng proyekto "
+        },
+        "align": "left"
+      },
+      "Dupont": {
+        "title": "Ekstensyon ng DuPont Sounder",
+        "description": "Pagdagdag ng dalawang bagong istasyon ng S Line sa Tillicum at Dupont.",
+        "link": {
+          "href": "https://www.soundtransit.org/system-expansion/dupont-sounder-extension",
+          "target": "_blank",
+          "text": " Tingnan ang mga detalye ng proyekto "
+        },
+        "align": "left"
+      }
+    }
