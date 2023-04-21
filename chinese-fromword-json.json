@@ -1,0 +1,334 @@
+
+{
+    "Everett": {
+      "title": "Everett Link 扩展",
+      "description": "扩展Snohomish 县的轻轨服务，从 Lynnwood 延伸至 Everett。",
+      "link": {
+        "href": "https://www.soundtransit.org/system-expansion/everett-link-extension",
+        "target": "_blank",
+        "text": "View project details"
+      },
+      "align": "left"
+    },
+    "Mukilteo": {
+      "title": "Edmonds 及 Mukilteo 站停车及通道优化",
+      "description": "进入 Sounder 车站变得更容易, 无论您是步行、滑行、骑行、开车或坐公交车。",
+      "link": {
+        "href": "https://www.soundtransit.org/system-expansion/edmonds-mukilteo-stations-parking-access-improvements",
+        "target": "_blank",
+        "text": "View project details"
+      },
+      "align": "left"
+    },
+    "Edmonds": {
+      "title": "Edmonds 及 Mukilteo 站停车及通道优化",
+      "description": "进入 Sounder 车站变得更容易, 无论您是步行、滑行、骑行、开车或坐公交车。
+      "link": {
+        "href": "https://www.soundtransit.org/system-expansion/edmonds-mukilteo-stations-parking-access-improvements",
+        "target": "_blank",
+        "text": "View project details"
+      },
+      "align": "left"
+    },
+    "Lynnwood": {
+      "title": "Lynnwood Link 扩展",
+      "description": "轻轨从 Northgate 延伸到 Snohomish 县。",
+      "link": {
+        "href": "https://www.soundtransit.org/system-expansion/lynnwood-link-extension",
+        "target": "_blank",
+        "text": "View project details"
+      },
+      "align": "left"
+    },
+    "Stride_S2": {
+      "title": "Stride BRT S2 线",
+      "description": "在Lynnwood 和 Bellevue之间的I-405沿线增加新的巴士捷运服务, 乘客将轻易地连接更多公交车",
+      "link": {
+        "href": "https://www.soundtransit.org/system-expansion/stride-brt",
+        "target": "_blank",
+        "text": "View project details"
+      },
+      "align": "left"
+    },
+    "Stride_S3": {
+      "title": "Stride BRT S3 线",
+      "description": "在SR-522沿线以及在Shoreline 和 Bothell 之间的 Northeast 145th上增加新的巴士捷运服务， 乘客将轻易地连接更多公交车。",
+      "link": {
+        "href": "https://www.soundtransit.org/system-expansion/stride-s3-brt",
+        "target": "_blank",
+        "text": "View project details"
+      },
+      "align": "left"
+    },
+    "Stride_S1": {
+      "title": "Stride BRT S1 线",
+      "description": "在 I-405沿线以及在 Burien 和 Bellevue之间的SR 518上增加新的巴士捷运服务, 乘客将轻易地连接更多公交车。",
+      "link": {
+        "href": "https://www.soundtransit.org/system-expansion/stride-brt",
+        "target": "_blank",
+        "text": "View project details"
+      },
+      "align": "left"
+    },
+    "Ballard": {
+      "title": "West Seattle 及 Ballard Link扩展",
+      "description": "轻轨从 Seattle市区延伸至West Seattle 的Alaska Junction以及延伸至 Ballard.",
+      "link": {
+        "href": "https://www.soundtransit.org/system-expansion/west-seattle-ballard-link-extensions",
+        "target": "_blank",
+        "text": "View project details"
+      },
+      "align": "left"
+    },
+    "NE_130": {
+      "title": "Northeast 130th Street 追加车站",
+      "description": "在 Northgate and和 Shoreline之间的 Lynnwood Link Extension增加一个轻轨站。",
+      "link": {
+        "href": "https://www.soundtransit.org/system-expansion/ne-130th-st-infill-station",
+        "target": "_blank",
+        "text": "View project details"
+      },
+      "align": "left"
+    },
+    "Kirkland": {
+      "title": "South Kirkland-Issaquah Link",
+      "description": "在 Eastside增加一条新的轻轨线, 为前往区域目的地提供更易的连接。",
+      "link": {
+        "href": "https://www.soundtransit.org/system-expansion/south-kirkland-issaquah-link",
+        "target": "_blank",
+        "text": "View project details"
+      },
+      "align": "left"
+    },
+    "Issaquah": {
+      "title": "South Kirkland-Issaquah Link",
+      "description": "在 Eastside增加一条新的轻轨线, 为前往区域目的地提供更易的连接。",
+      "link": {
+        "href": "https://www.soundtransit.org/system-expansion/south-kirkland-issaquah-link",
+        "target": "_blank",
+        "text": "View project details"
+      },
+      "align": "left"
+    },
+    "Bus_Base": {
+      "title": "北巴士基地",
+      "description": "为新的Stride巴士捷运车队增加一个存放及维修的设施。",
+      "link": {
+        "href": "https://www.soundtransit.org/system-expansion/stride-s3-brt",
+        "target": "_blank",
+        "text": "View project details"
+      },
+      "align": "left"
+    },
+    "East_Link": {
+      "title": "East Link扩展",
+      "description": "轻轨服务从 Seattle市区扩展至Eastside。",
+      "link": {
+        "href": "https://www.soundtransit.org/system-expansion/east-link-extension",
+        "target": "_blank",
+        "text": "View project details"
+      },
+      "align": "left"
+    },
+    "Redmond": {
+      "title": "Downtown Redmond Link 扩展",
+      "description": "轻轨服务从 Overlake 地区延伸至 Redmond市区.",
+      "link": {
+        "href": "https://www.soundtransit.org/system-expansion/downtown-redmond-link-extension",
+        "target": "_blank",
+        "text": "View project details"
+      },
+      "align": "left"
+    },
+    "OMF_East": {
+      "title": "东操作及维修设施",
+      "description": "为日益壮大的Link轻轨车队增加一个新的存放及维修设施。",
+      "link": {
+        "href": "https://www.soundtransit.org/system-expansion/operations-maintenance-facility-east",
+        "target": "_blank",
+        "text": "View project details"
+      },
+      "align": "left"
+    },
+    "Sammamish": {
+      "title": "North Sammamish 换乘停车场",
+      "description": "增加一个新的停车设施，提供区域公交连接。",
+      "link": {
+        "href": "https://www.soundtransit.org/system-expansion/north-sammamish-park-ride",
+        "target": "_blank",
+        "text": "View project details"
+      },
+      "align": "left"
+    },
+    "West_Seattle": {
+      "title": "West Seattle 及 Ballard Link 扩展",
+      "description": "轻轨服务从 Seattle市区延伸至 West Seattle的Alaska Junction 以及到 Ballard。",
+      "link": {
+        "href": "https://www.soundtransit.org/system-expansion/west-seattle-ballard-link-extensions",
+        "target": "_blank",
+        "text": "View project details"
+      },
+      "align": "left"
+    },
+    "Graham_St": {
+      "title": "South Graham Street追加车站 ",
+      "description": "在Columbia City 和 Othello的现有1 Line之间增加一个轻轨车站。",
+      "link": {
+        "href": "https://www.soundtransit.org/system-expansion/s-graham-st-infill-station",
+        "target": "_blank",
+        "text": "View project details"
+      },
+      "align": "left"
+    },
+    "Boeing_Access": {
+      "title": "South Boeing Access Road 追加车站",
+      "description": "在 Rainier Beach 和 Tukwila International Boulevard之间现有的1 Line上增加一个轻轨站.",
+      "link": {
+        "href": "https://www.soundtransit.org/system-expansion/s-boeing-access-rd-infill-station",
+        "target": "_blank",
+        "text": "View project details"
+      },
+      "align": "left"
+    },
+    "OMF_South": {
+      "title": "南操作及维修设施",
+      "description": "为日益壮大的Link轻轨车队增加一个新的存放及维修设施.",
+      "link": {
+        "href": "https://www.soundtransit.org/system-expansion/operations-maintenance-facility-south",
+        "target": "_blank",
+        "text": "View project details"
+      },
+      "align": "left"
+    },
+    "Federal_Way": {
+      "title": "Federal Way Link 扩展",
+      "description": "轻轨从 Angle Lake 延伸至Federal Way市区",
+      "link": {
+        "href": "https://www.soundtransit.org/system-expansion/federal-way-link-extension",
+        "target": "_blank",
+        "text": "View project details"
+      },
+      "align": "left"
+    },
+    "Tacoma_Dome": {
+      "title": "Tacoma Dome Link 扩展",
+      "description": "轻轨从 Federal Way 延伸至 Pierce County.",
+      "link": {
+        "href": "https://www.soundtransit.org/system-expansion/tacoma-dome-link-extension",
+        "target": "_blank",
+        "text": "View project details"
+      },
+      "align": "left"
+    },
+    "Hilltop": {
+      "title": "Hilltop Tacoma Link Extension扩展",
+      "description": " T Line将达致逾双倍的里程, 轻轨服务从Tacoma市区延伸至 Hilltop。",
+      "link": {
+        "href": "https://www.soundtransit.org/system-expansion/hilltop-tacoma-link-extension",
+        "target": "_blank",
+        "text": "View project details"
+      },
+      "align": "left"
+    },
+    "TCC": {
+      "title": "TCC Tacoma Link 扩展",
+      "description": " T Line从 St. Joseph 延伸至 Tacoma Community College.",
+      "link": {
+        "href": "https://www.soundtransit.org/system-expansion/tcc-tacoma-link-extension",
+        "target": "_blank",
+        "text": "View project details"
+      },
+      "align": "left"
+    },
+    "Sounder_South": {
+      "title": "Sounder South 载客量扩充",
+      "description": "增加载客量，为更多南普吉特湾的乘客提供服务并改善乘客体验。",
+      "link": {
+        "href": "https://www.soundtransit.org/system-expansion/sounder-south-capacity-expansion",
+        "target": "_blank",
+        "text": "View project details"
+      },
+      "align": "left"
+    },
+    "Kent": {
+      "title": "Kent 车站停车及通道优化 ",
+      "description": "增加停车位以及改善前往Sounder车站的通道，无论您是步行、滑行、骑行、开车或是乘坐公交。",
+      "link": {
+        "href": "https://www.soundtransit.org/system-expansion/kent-station-parking-access-improvements",
+        "target": "_blank",
+        "text": "View project details"
+      },
+      "align": "left"
+    },
+    "Auburn": {
+      "title": "Auburn车站停车及通道优化",
+      "description": "增加停车位以及改善前往Sounder车站的通道，无论您是步行、滑行、骑行、开车或是乘坐公交。",
+      "link": {
+        "href": "https://www.soundtransit.org/system-expansion/auburn-station-parking-access-improvements",
+        "target": "_blank",
+        "text": "View project details"
+      },
+      "align": "left"
+    },
+    "Sumner": {
+      "title": "Sumner 车站停车及通道优化",
+      "description": "增加停车位以及改善前往Sounder车站的通道，无论您是步行、滑行、骑行、开车或是乘坐公交。",
+      "link": {
+        "href": "https://www.soundtransit.org/system-expansion/sumner-station-parking-access-improvements",
+        "target": "_blank",
+        "text": "View project details"
+      },
+      "align": "left"
+    },
+    "Puyallup": {
+      "title": "Puyallup 车站停车及通道优化",
+      "description": "增加停车位以及改善前往Sounder车站的通道，无论您是步行、滑行、骑行、开车或是乘坐公交。",
+      "link": {
+        "href": "https://www.soundtransit.org/system-expansion/puyallup-station-parking-access-improvements",
+        "target": "_blank",
+        "text": "View project details"
+      },
+      "align": "left"
+    },
+    "South_Tacoma": {
+      "title": "South Tacoma 车站停车及通道优化",
+      "description": "增加停车位以及改善前往Sounder车站的通道，无论您是步行、滑行、骑行、开车或是乘坐公交。",
+      "link": {
+        "href": "https://www.soundtransit.org/system-expansion/south-tacoma-station-parking-access-improvements",
+        "target": "_blank",
+        "text": "View project details"
+      },
+      "align": "left"
+    },
+    "Lakewood": {
+      "title": "Lakewood 车站停车及通道优化",
+      "description": "增加停车位以及改善前往Sounder车站的通道，无论您是步行、滑行、骑行、开车或是乘坐公交。",
+      "link": {
+        "href": "https://www.soundtransit.org/system-expansion/lakewood-station-parking-access-improvements",
+        "target": "_blank",
+        "text": "View project details"
+      },
+      "align": "left"
+    },
+    "Sounder_Base": {
+      "title": "Sounder维修基地",
+      "description": "建造一个新的设施以存放和维修日益壮大的Sounder列车队。",
+      "link": {
+        "href": "https://www.soundtransit.org/system-expansion/sounder-maintenance-base",
+        "target": "_blank",
+        "text": "View project details"
+      },
+      "align": "left"
+    },
+    "Dupont": {
+      "title": "DuPont Sounder 扩展",
+      "description": "在 Tillicum 和 Dupont增加2个新的S Line车站。",
+      "link": {
+        "href": "https://www.soundtransit.org/system-expansion/dupont-sounder-extension",
+        "target": "_blank",
+        "text": "View project details"
+      },
+      "align": "left"
+    }
+  }
+
