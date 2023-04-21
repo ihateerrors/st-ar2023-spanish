@@ -292,7 +292,7 @@
             "template": "\u003Cdiv class=\u0022interactive-map-modal-container\u0022 data-name=\u0022{{ data_name }}\u0022\u003E\n  \u003Cdiv class=\u0022interactive-map-modal\u0022\u003E\n    \u003Cbutton type=\u0022button\u0022 class=\u0022interactive-map-modal-close-btn\u0022 aria-label=\u0022Close the interactive map modal\u0022\u003E\n      \u003Csvg\u003E\n        \u003Cuse xlink:href=\u0022{{ sprite_img_dir }}/sprite.symbol.svg#close\u0022\u003E\u003C/use\u003E\n      \u003C/svg\u003E\n    \u003C/button\u003E\n    \u003Ch3\u003E{{ items.title }}\u003C/h3\u003E\n    \u003Cp class=\u0022interactive-map-modal-description\u0022\u003E\n      {{ items.description }}\n    \u003C/p\u003E\n    {% if items.link.href and items.link.text %}\n      \u003Cdiv class=\u0022interactive-map-link-container\u0022\u003E\n        \u003Ca href=\u0022{{ items.link.href }}\u0022{% if items.link.target %} target=\u0022{{ items.link.target }}\u0022{% endif %}\u003E{{ items.link.text }}\u003C/a\u003E\n      \u003C/div\u003E\n    {% endif %}\n  \u003C/div\u003E\n\u003C/div\u003E\n"
         }
     },
-    "photo_grid_marquee": { "117783": { "rotating_text": [{ "value": "Getting there together" }, { "value": "2023 Progress Report" }] } },
+    "photo_grid_marquee": { "117783": { "rotating_text": [{ "value": "Sama-samang makakarating" }, { "value": "2023 Progress Report" }] } },
     "st_search": {
         "module_path": "modules/custom/st_search",
         "sprite_img_dir": "/themes/custom/soundtransit/build/svg",
@@ -326,13 +326,3 @@
 
 
 
-"Stride_S2": {
-    "title": "Linya ng Stride BRT S2",
-    "description": "Pagdaragdag ng bagong serbisyo ng bus rapid transit sa kahabaan ng I-405 sa pagitan ng Lynnwood at Bellevue, na may madaling koneksyon sa marami pang pagbibiyahe.",
-    "link": {
-      "href": "https://www.soundtransit.org/system-expansion/stride-brt",
-      "target": "_blank",
-      "text": " Tingnan ang mga detalye ng proyekto"
-    },
-    "align": "left"
-  },
